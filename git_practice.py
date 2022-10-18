@@ -14,4 +14,3 @@ def remain(x, y):
     return x % y
 
 
-
