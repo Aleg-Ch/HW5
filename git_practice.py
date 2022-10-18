@@ -10,3 +10,8 @@ def subtract(x, y):  # в ветке test1 добавим новую функц�
     return x - y
 
 
+def remain(x, y):
+    return x % y
+
+
+
