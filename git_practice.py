@@ -1,3 +1,4 @@
+# Материал к Lesson 05
 def add(x, y):
     return x + y
 
